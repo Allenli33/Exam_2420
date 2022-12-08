@@ -22,6 +22,7 @@ h = left, l = right, j = down and k = u
 ![](images/2.png)
 ![](images/3.png)
 ![](images/5.png)
+![](images/6.png)
 
 ## part 4
 
