@@ -59,7 +59,7 @@ WantedBy=multi-user.target
 
 ```
 
-![](images/6.png)
+![](images/8.png)
 
 ## part 6
 
