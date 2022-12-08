@@ -58,3 +58,25 @@ ExecStart=/etc/systemd/system
 WantedBy=multi-user.target
 
 ```
+
+![](images/6.png)
+
+## part 6
+
+- Timer file
+```
+Unit]
+Description=My Service Timer
+
+[Timer]
+# Run the timer 1 minute after booting
+OnBootSec=1min
+# Run the timer every day at the same time
+OnUnitActiveSec=1d
+
+[Install]
+# Start the timer and the associated service when the timer is activated
+WantedBy=multi-user.target
+
+```
+
