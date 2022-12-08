@@ -7,9 +7,10 @@
 
 ## part 2
 
-- 1 I  used the following keys to navigate the file
+-  I  used the following keys to navigate the file
 ```
 h = left, l = right, j = down and k = u
 ```
 
-- I used ```x``` to delete each character need to replace 
+- I used ```x``` to delete each character need to replace the old one 
+- Then used ```c``` to change to new character
