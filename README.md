@@ -1,11 +1,11 @@
 # Exam_2420
 
-## part 1
+## Part 1
 
 - run command ``` sudo apt update && sudo apt upgrade```
 
 
-## part 2
+## Part 2
 
 -  I  used the following keys to navigate the file
 ```
@@ -19,14 +19,14 @@ h = left, l = right, j = down and k = u
 
 **NOTE** I forgot screenshot the ketbings ToT 
 
-## part 3
+## Part 3
 
 ![](images/2.png)
 ![](images/3.png)
 ![](images/5.png)
 ![](images/6.png)
 
-## part 4
+## Part 4
 
 ```
 #!/bin/bash
@@ -40,7 +40,7 @@ echo "Users currently logged in are: vargrant"
 
 ```
 
-## part 5
+## Part 5
 - put the service file to ```/etc/systemd/system```
 
 - service file
@@ -61,7 +61,7 @@ WantedBy=multi-user.target
 
 ![](images/8.png)
 
-## part 6
+## Part 6
 
 - Timer file
 ```
