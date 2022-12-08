@@ -35,3 +35,19 @@ echo "Users currently logged in are: vargrant"
 
 ## part 5
 - put the service file to ```/etc/systemd/system```
+
+- service file
+
+```
+[Unit]
+Description=show all the users in vagrant also current login user
+
+[Service]
+Type=simple
+Environment=DIR=/home/vagrant/final
+ExecStart=/etc/systemd/system
+
+[Install]
+WantedBy=multi-user.target
+
+```
