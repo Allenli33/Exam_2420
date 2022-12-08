@@ -17,6 +17,8 @@ h = left, l = right, j = down and k = u
 
 ![](images/1.png)
 
+**NOTE** I forgot screenshot the ketbings
+
 ## part 3
 
 ![](images/2.png)
