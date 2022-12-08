@@ -32,3 +32,6 @@ grep x:[0-5][0-9][0-9][0-9] -ri /etc/passwd
 echo "Users currently logged in are: vargrant"
 
 ```
+
+## part 5
+- put the service file to ```/etc/systemd/system```
