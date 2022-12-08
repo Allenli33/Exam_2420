@@ -15,9 +15,13 @@ h = left, l = right, j = down and k = u
 - I used ```x``` to delete each character need to replace the old one 
 - Then used ```c``` to change to new character
 
+![](images/1.png)
 
 ## part 3
 
+![](images/2.png)
+![](images/3.png)
+![](images/5.png)
 
 ## part 4
 
